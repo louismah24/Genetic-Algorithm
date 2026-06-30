@@ -86,6 +86,14 @@ Key findings include:
 - Smaller genomes evolved more efficiently.
 - Allowing evolution to choose among multiple motor waveforms outperformed using a single motor type.
 
+
+## Basic Experiments results
+<img width="790" height="399" alt="image" src="https://github.com/user-attachments/assets/7f634e45-e99d-4fcb-a2f0-00751a572499" />
+
+
+## Advanced Experiments results
+<img width="795" height="89" alt="image" src="https://github.com/user-attachments/assets/796e8ce6-e70b-42c5-b94e-0e42f3f51263" />
+
 ## Future Improvements
 
 - Parallel fitness evaluation
@@ -93,4 +101,5 @@ Key findings include:
 - Adaptive mutation rates
 - Multi-objective optimisation
 - Neural-network-based controllers
+
 
