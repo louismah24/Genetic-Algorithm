@@ -1,0 +1,7 @@
+To run python mov-envt.py evolve 100 20 10 0.01 (Generation, Population, Genes, Mutation Rate)
+
+To run python mov-envt.py visual
+
+To open csv creature python realtime_from_csv.py mountain_climber_gen_1.csv
+
+ipython % run mov-envt.py evolve
